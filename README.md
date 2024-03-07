@@ -1,0 +1,1 @@
+'Malware' to demo memory forensics techniques with Volatility.
